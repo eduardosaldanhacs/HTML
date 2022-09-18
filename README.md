@@ -1,2 +1,2 @@
-# javascript
-curso em video - exercícios
+# JAVASCRIPT 
+Exercícios proposto no curso do Prof Guanabará
